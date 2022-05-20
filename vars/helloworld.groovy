@@ -1,3 +1,4 @@
+
 def call(name) {
-  echo "Hi $name, how you doing....!!???"
+		echo "Welcome, ${name}."
 }
